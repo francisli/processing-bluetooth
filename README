@@ -1,0 +1,26 @@
+README
+
+2011, December 7
+================
+
+This is a Bluetooth library for Processing.  It can be used with the free, open 
+source Bluecove JSR-082 implementation on Windows, Mac OS X, and Linux:
+
+http://bluecove.org/
+
+I've tested most recently only on Mac OS X 10.7.2 (Lion) using the latest
+available snapshot of Bluecove:
+
+http://snapshot.bluecove.org/distribution/download/2.1.1-SNAPSHOT/2.1.1-SNAPSHOT.63/
+
+The library was originally written by Francis Li for
+the Mobile Processing project (Processing for Java Micro Edition devices):
+
+http://mobile.processing.org/
+
+Then, it was adapted for Processing by extrapixel:
+
+http://www.extrapixel.ch/bluetooth/
+
+And is now being modified again by Francis Li, with this latest release adding
+support for Bluetooth Object Push Protocol.
